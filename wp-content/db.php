@@ -1,0 +1,1 @@
+C:/xampp/htdocs/EcommercePH/wp-content/plugins/query-monitor/wp-content/db.php
